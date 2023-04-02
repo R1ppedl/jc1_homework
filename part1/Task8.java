@@ -8,8 +8,8 @@ public class Task8 {
         double diaganal1  = Math.sqrt(a*a + b*b);
         int diaganal2 = r*2;
         if (diaganal2 > diaganal1)
-            System.out.println("Прямоукольное отверстие можно закрыть");
+            System.out.println("Прямоугольное отверстие можно закрыть");
         else
-            System.out.println("Прямоукольное отверстие нельзя закрыть");
+            System.out.println("Прямоугольное отверстие нельзя закрыть");
     }
 }
